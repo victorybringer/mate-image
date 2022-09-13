@@ -1,1 +1,1 @@
-docker pull ghcr.io/galoisinc/mate-notebook:main
+from ghcr.io/galoisinc/mate-notebook:main
