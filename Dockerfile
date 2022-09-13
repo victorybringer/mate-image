@@ -1,1 +1,1 @@
-docker pull ghcr.io/galoisinc/mate-dev:main
+docker pull ghcr.io/galoisinc/mate-dist:main
