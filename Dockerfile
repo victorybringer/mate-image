@@ -1,1 +1,1 @@
-docker pull ghcr.io/galoisinc/mate-dist:main
+from  ghcr.io/galoisinc/mate-dist:main
